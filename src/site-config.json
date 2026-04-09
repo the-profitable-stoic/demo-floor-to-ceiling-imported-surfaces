@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "Floor to Ceiling Imported Surfaces",
+    "phone": "+17573909703",
+    "category": "flooring contractor",
+    "city": "Virginia Beach",
+    "state": "VA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Flooring Experts in Virginia Beach",
+      "heroSubline": "Premium flooring solutions for homes and businesses. Durable, beautiful surfaces installed with precision.",
+      "aboutTitle": "Craftsmanship You Can Stand On",
+      "aboutText": [
+        "Floor to Ceiling Imported Surfaces started with a simple mission: to provide the Hampton Roads area with unparalleled flooring installation and service. We saw a need for true professionals who treated every project like their own.",
+        "We approach every job with meticulous planning and unwavering dedication. From initial consultation to final inspection, we ensure every detail is perfect. We prioritize clear communication, honest pricing, and lasting results.",
+        "We're more than just a flooring company; we're part of the Virginia Beach community. We source materials locally whenever possible and actively support local charities. We believe in giving back to the people who have supported us."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled installers ensure precise and durable flooring for lasting beauty."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We source only the finest materials, built to withstand coastal conditions."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "Tailored flooring options to perfectly match your style and needs."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. Your satisfaction is our top priority."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today!",
+      "ctaSubline": "Get a free quote and discover the perfect flooring for your home or business."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Timeless elegance and durability for your home.",
+        "description": "Hardwood flooring adds warmth and value to any home in Virginia Beach. We specialize in the installation of solid and engineered hardwood, offering a wide selection of wood species, finishes, and plank sizes. Our experienced installers understand the unique challenges of the coastal climate, ensuring proper acclimation and moisture control to prevent warping and damage. From classic oak to exotic hardwoods, we'll help you choose the perfect flooring to complement your style and withstand the test of time. We handle everything from subfloor preparation to the final coat of finish, guaranteeing a flawless and durable installation. We also offer hardwood refinishing services to restore the beauty of your existing floors.",
+        "process": [
+          "Consultation & Selection",
+          "Subfloor Preparation",
+          "Acclimation",
+          "Precise Installation"
+        ],
+        "benefits": [
+          "Adds Value to Your Home",
+          "Timeless and Elegant Style",
+          "Durable and Long-Lasting",
+          "Increases Home Value"
+        ],
+        "faq": [
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "The installation time depends on the size of the area and the complexity of the project, but typically takes between 2-5 days."
+          },
+          {
+            "question": "What is the best type of hardwood for Virginia Beach homes?",
+            "answer": "Engineered hardwood is often preferred due to its greater resistance to moisture and humidity, common in our coastal environment."
+          },
+          {
+            "question": "How do I care for my hardwood floors?",
+            "answer": "Regular sweeping and occasional damp mopping with a pH-neutral cleaner will keep your hardwood floors looking their best."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable, stylish, and easy-to-maintain flooring solution.",
+        "description": "Laminate flooring provides a cost-effective and versatile flooring option for Virginia Beach homeowners. It mimics the appearance of hardwood, tile, or stone, offering a wide range of styles and colors to suit any décor. Laminate is known for its durability, scratch resistance, and ease of maintenance, making it an ideal choice for high-traffic areas and homes with pets or children. Our expert installers ensure a precise and seamless installation, paying close attention to detail to create a beautiful and long-lasting floor. We offer a variety of laminate options, including water-resistant and waterproof varieties, perfect for kitchens, bathrooms, and basements. We'll guide you through the selection process, helping you choose the right laminate flooring to meet your needs and budget.",
+        "process": [
+          "Detailed Measurement & Planning",
+          "Moisture Barrier Installation",
+          "Precise Laminate Installation",
+          "Final Inspection & Cleanup"
+        ],
+        "benefits": [
+          "Cost-Effective Flooring Option",
+          "Durable and Scratch-Resistant",
+          "Easy to Clean and Maintain",
+          "Wide Range of Styles and Colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While some laminate flooring is water-resistant, waterproof options are available for areas prone to moisture."
+          },
+          {
+            "question": "How long will laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last 10-20 years or more."
+          },
+          {
+            "question": "Can laminate flooring be installed over existing floors?",
+            "answer": "In many cases, laminate flooring can be installed over existing floors, provided the subfloor is level and stable."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring",
+        "shortDescription": "Durable and stylish tile for kitchens, bathrooms, and more.",
+        "description": "Tile flooring offers unmatched durability and versatility, making it a popular choice for homes throughout Virginia Beach. We specialize in the installation of ceramic, porcelain, and natural stone tile, providing a wide range of options to suit any style and budget. Tile is resistant to water, stains, and scratches, making it ideal for kitchens, bathrooms, and other high-traffic areas. Our skilled tile installers have years of experience creating stunning and long-lasting tile floors. We pay close attention to detail, ensuring proper layout, grout lines, and sealing to prevent water damage and maintain the beauty of your tile for years to come. We also offer tile repair and replacement services.",
+        "process": [
+          "Design Consultation",
+          "Subfloor Preparation",
+          "Precise Tile Installation",
+          "Grouting and Sealing"
+        ],
+        "benefits": [
+          "Water-Resistant and Stain-Resistant",
+          "Durable and Long-Lasting",
+          "Wide Variety of Styles and Colors",
+          "Easy to Clean and Maintain"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between ceramic and porcelain tile?",
+            "answer": "Porcelain tile is denser and more durable than ceramic tile, making it a better choice for high-traffic areas and outdoor applications."
+          },
+          {
+            "question": "How often should I seal my tile grout?",
+            "answer": "Tile grout should be sealed every 1-2 years to prevent staining and water damage."
+          },
+          {
+            "question": "Can tile flooring be heated?",
+            "answer": "Yes, radiant heating systems can be installed under tile flooring for added comfort."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof, comfortable, and affordable flooring.",
+        "description": "Vinyl flooring provides a comfortable, waterproof, and affordable flooring solution for Virginia Beach homes. We offer a wide selection of vinyl sheet, plank, and tile options, mimicking the look of hardwood, tile, and stone at a fraction of the cost. Vinyl is resistant to water, scratches, and stains, making it ideal for kitchens, bathrooms, basements, and other areas prone to moisture. Our experienced installers ensure a precise and seamless installation, paying close attention to detail to create a beautiful and long-lasting floor. We offer a variety of vinyl options, including luxury vinyl plank (LVP) and luxury vinyl tile (LVT), providing added durability and realism. We'll help you choose the right vinyl flooring to meet your needs and budget.",
+        "process": [
+          "Subfloor Assessment",
+          "Precise Measurement & Cutting",
+          "Secure Adhesive Application",
+          "Detailed Finishing"
+        ],
+        "benefits": [
+          "Waterproof and Stain-Resistant",
+          "Comfortable Underfoot",
+          "Affordable Flooring Option",
+          "Easy to Clean and Maintain"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its waterproof properties."
+          },
+          {
+            "question": "What is the difference between LVP and LVT?",
+            "answer": "LVP (Luxury Vinyl Plank) mimics the look of hardwood planks, while LVT (Luxury Vinyl Tile) mimics the look of ceramic or stone tiles."
+          },
+          {
+            "question": "How do I clean vinyl flooring?",
+            "answer": "Regular sweeping and damp mopping with a mild detergent are sufficient for cleaning vinyl flooring."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Comfort and style underfoot with expert carpet installation.",
+        "description": "Carpet provides warmth, comfort, and style to any room in your Virginia Beach home. We offer a wide selection of carpet styles, colors, and textures to suit any décor. Our experienced carpet installers ensure a precise and seamless installation, paying close attention to detail to create a beautiful and long-lasting floor. We use high-quality padding to provide added comfort and insulation, and we offer a variety of carpet options, including stain-resistant and pet-friendly varieties. We'll help you choose the right carpet to meet your needs and budget, and we'll handle everything from removing your old carpet to installing your new one.",
+        "process": [
+          "Carpet Selection & Measurement",
+          "Subfloor Preparation",
+          "Padding Installation",
+          "Precise Carpet Installation"
+        ],
+        "benefits": [
+          "Warm and Comfortable Underfoot",
+          "Reduces Noise and Insulates",
+          "Wide Variety of Styles and Colors",
+          "Adds Value to Your Home"
+        ],
+        "faq": [
+          {
+            "question": "What type of carpet is best for high-traffic areas?",
+            "answer": "Nylon and olefin carpets are known for their durability and resistance to wear and tear, making them ideal for high-traffic areas."
+          },
+          {
+            "question": "How often should I clean my carpets?",
+            "answer": "Carpets should be professionally cleaned every 12-18 months to remove dirt, allergens, and stains."
+          },
+          {
+            "question": "What is the best way to remove stains from carpet?",
+            "answer": "Act quickly to blot up spills with a clean cloth and use a carpet stain remover specifically designed for the type of stain."
+          }
+        ]
+      },
+      {
+        "slug": "subfloor-repair",
+        "name": "Subfloor Repair",
+        "shortDescription": "Ensuring a solid foundation for your new flooring.",
+        "description": "A damaged or uneven subfloor can compromise the integrity and appearance of your new flooring. We provide professional subfloor repair services to ensure a solid and level foundation for your new flooring installation. Our experienced technicians will assess the condition of your subfloor and recommend the appropriate repairs, whether it's patching cracks, leveling uneven surfaces, or replacing damaged sections. We use high-quality materials and proven techniques to ensure a durable and long-lasting repair. Don't risk damaging your new flooring with a faulty subfloor – let us provide the expert repairs you need.",
+        "process": [
+          "Thorough Inspection",
+          "Precise Damage Assessment",
+          "Professional Repair Execution",
+          "Comprehensive Leveling"
+        ],
+        "benefits": [
+          "Increased Flooring Lifespan",
+          "Prevents Future Flooring Issues",
+          "Ensures Level and Stable Surface",
+          "Protects Your Investment"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my subfloor needs repair?",
+            "answer": "Signs of subfloor damage include squeaking, unevenness, and visible cracks or water stains."
+          },
+          {
+            "question": "What types of subfloor repair do you offer?",
+            "answer": "We offer patching, leveling, and replacement services for all types of subfloors, including plywood, OSB, and concrete."
+          },
+          {
+            "question": "Can I install new flooring over a damaged subfloor?",
+            "answer": "Installing new flooring over a damaged subfloor is not recommended as it can lead to premature failure and other problems."
+          }
+        ]
+      },
+      {
+        "slug": "floor-removal",
+        "name": "Floor Removal",
+        "shortDescription": "Efficient and safe removal of your old flooring.",
+        "description": "Removing old flooring can be a time-consuming and labor-intensive task. We offer professional floor removal services to safely and efficiently remove your old flooring, preparing your space for new installation. Our experienced team uses specialized equipment and techniques to minimize dust and debris, and we dispose of your old flooring responsibly. Whether you're removing carpet, tile, hardwood, or vinyl, we'll handle the job quickly and efficiently, leaving you with a clean and ready-to-install surface. Avoid the hassle and mess of DIY floor removal – let us take care of it for you.",
+        "process": [
+          "Protective Covering Application",
+          "Careful Removal of Existing Flooring",
+          "Thorough Debris Cleanup",
+          "Surface Preparation for New Flooring"
+        ],
+        "benefits": [
+          "Saves Time and Effort",
+          "Minimizes Dust and Debris",
+          "Ensures Proper Disposal of Old Flooring",
+          "Prepares Surface for New Installation"
+        ],
+        "faq": [
+          {
+            "question": "Do you remove all types of flooring?",
+            "answer": "Yes, we remove all types of flooring, including carpet, tile, hardwood, and vinyl."
+          },
+          {
+            "question": "How long does floor removal take?",
+            "answer": "The removal time depends on the size of the area and the type of flooring, but typically takes between 1-2 days."
+          },
+          {
+            "question": "Do you dispose of the old flooring?",
+            "answer": "Yes, we dispose of your old flooring responsibly."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Virginia Beach",
+        "slug": "virginia-beach-va",
+        "state": "VA",
+        "content": "Floor to Ceiling Imported Surfaces is proud to offer our comprehensive flooring services to the residents and businesses of Virginia Beach, VA. From luxurious hardwood installations to durable and stylish tile work, we bring our expertise and passion for quality to every project. We understand the unique coastal environment of Virginia Beach and offer flooring solutions that are both beautiful and resilient, designed to withstand the challenges of humidity and wear. \n\nOur team is committed to providing exceptional customer service and craftsmanship. We work closely with our clients in Virginia Beach to understand their specific needs and preferences, ensuring that the final result exceeds their expectations. Whether you're renovating your home, upgrading your business space, or building a new property, Floor to Ceiling Imported Surfaces is your trusted partner for all your flooring needs.",
+        "localContext": "Virginia Beach, a vibrant coastal city known for its beautiful beaches and thriving community, demands flooring solutions that are both stylish and durable to withstand the coastal elements.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Portsmouth"
+        ]
+      },
+      {
+        "city": "Norfolk",
+        "slug": "norfolk-va",
+        "state": "VA",
+        "content": "Floor to Ceiling Imported Surfaces extends its premier flooring services to the historic city of Norfolk, VA. We offer a diverse range of flooring options to suit the unique architectural styles and needs of Norfolk's homes and businesses. Whether you're looking to enhance the charm of a Victorian-era home or create a modern aesthetic in a downtown loft, we have the perfect flooring solutions for you.\n\nOur team of experienced professionals is dedicated to providing top-quality workmanship and exceptional customer service. We understand the importance of selecting the right flooring for your space, and we're here to guide you through every step of the process, from initial consultation to final installation. Choose Floor to Ceiling Imported Surfaces for flooring that enhances the beauty and value of your Norfolk property.",
+        "localContext": "Norfolk, a city steeped in maritime history and boasting a diverse architectural landscape, requires flooring solutions that are both aesthetically pleasing and built to last.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Portsmouth",
+          "Chesapeake"
+        ]
+      },
+      {
+        "city": "Chesapeake",
+        "slug": "chesapeake-va",
+        "state": "VA",
+        "content": "Floor to Ceiling Imported Surfaces is delighted to serve the growing community of Chesapeake, VA. We offer a wide selection of flooring options to suit the diverse needs of Chesapeake's homeowners and businesses. From cozy carpets for family homes to durable hardwood for commercial spaces, we have the perfect flooring to enhance your property. \n\nWe are committed to providing exceptional service and quality craftsmanship. Our team of experienced installers will ensure that your new flooring is installed flawlessly and to your complete satisfaction. With Floor to Ceiling Imported Surfaces, you can be confident that you're getting the best possible value for your investment.",
+        "localContext": "Chesapeake, a thriving city with a mix of suburban and rural areas, benefits from versatile flooring options that cater to various lifestyles and property types.",
+        "nearbyAreas": [
+          "Virginia Beach",
+          "Norfolk",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Portsmouth",
+        "slug": "portsmouth-va",
+        "state": "VA",
+        "content": "Floor to Ceiling Imported Surfaces proudly serves the historic city of Portsmouth, VA, offering a wide range of flooring solutions to enhance the beauty and functionality of your home or business. We understand the unique character of Portsmouth's architecture and offer flooring options that complement its charm, from classic hardwood to contemporary tile.\n\nOur team is dedicated to providing exceptional customer service and expert installation. We work closely with our clients to understand their specific needs and preferences, ensuring that the final result exceeds their expectations. Choose Floor to Ceiling Imported Surfaces for flooring that adds value and style to your Portsmouth property.",
+        "localContext": "Portsmouth, a historic seaport city with a rich architectural heritage, requires flooring solutions that are both timeless and durable to withstand the test of time.",
+        "nearbyAreas": [
+          "Norfolk",
+          "Chesapeake",
+          "Suffolk"
+        ]
+      },
+      {
+        "city": "Suffolk",
+        "slug": "suffolk-va",
+        "state": "VA",
+        "content": "Floor to Ceiling Imported Surfaces is pleased to extend our flooring services to the city of Suffolk, VA. We offer a comprehensive selection of flooring options to meet the diverse needs of Suffolk's residents and businesses. Whether you're renovating a historic home or building a new commercial space, we have the perfect flooring solution for you.\n\nOur team is committed to providing exceptional quality and service. We work closely with our clients to understand their vision and deliver results that exceed their expectations. With Floor to Ceiling Imported Surfaces, you can be confident that you're getting the best possible flooring for your Suffolk property.",
+        "localContext": "Suffolk, a large and diverse city with a blend of urban and rural landscapes, benefits from versatile flooring options that adapt to various environments and lifestyles.",
+        "nearbyAreas": [
+          "Portsmouth",
+          "Chesapeake",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Hampton",
+        "slug": "hampton-va",
+        "state": "VA",
+        "content": "Floor to Ceiling Imported Surfaces proudly serves the city of Hampton, VA, providing top-quality flooring solutions for homes and businesses alike. We offer a diverse range of flooring options, from luxurious carpets to durable hardwood, designed to enhance the beauty and value of your property.\n\nOur team of experienced professionals is dedicated to providing exceptional customer service and expert installation. We work closely with our clients to understand their specific needs and preferences, ensuring that the final result exceeds their expectations. Choose Floor to Ceiling Imported Surfaces for flooring that transforms your Hampton space.",
+        "localContext": "Hampton, a vibrant city with a rich history and a strong sense of community, requires flooring solutions that are both stylish and durable to meet the demands of modern living.",
+        "nearbyAreas": [
+          "Newport News",
+          "Poquoson",
+          "Yorktown"
+        ]
+      },
+      {
+        "city": "Newport News",
+        "slug": "newport-news-va",
+        "state": "VA",
+        "content": "Floor to Ceiling Imported Surfaces is excited to offer our expert flooring services to the residents and businesses of Newport News, VA. We provide a wide variety of flooring choices, including hardwood, tile, laminate, and carpet, to suit every style and budget. We understand the unique needs of Newport News properties, from historic homes to modern commercial spaces.\n\nOur team is committed to delivering exceptional craftsmanship and customer satisfaction. We work closely with our clients to ensure that their vision becomes a reality. Whether you're renovating, remodeling, or building new, Floor to Ceiling Imported Surfaces is your trusted partner for all your flooring needs in Newport News.",
+        "localContext": "Newport News, a city with a strong maritime history and a diverse population, demands flooring solutions that are both durable and aesthetically pleasing.",
+        "nearbyAreas": [
+          "Hampton",
+          "Yorktown",
+          "Williamsburg"
+        ]
+      },
+      {
+        "city": "Poquoson",
+        "slug": "poquoson-va",
+        "state": "VA",
+        "content": "Floor to Ceiling Imported Surfaces is pleased to extend our quality flooring services to the community of Poquoson, VA. We offer a wide range of flooring options perfect for coastal homes and businesses, including water-resistant and durable materials that stand up to the elements. From cozy carpets to elegant hardwood, we have the perfect solution for every space.\n\nOur team is dedicated to providing exceptional customer service and expert installation. We work closely with our clients in Poquoson to understand their unique needs and preferences, ensuring that the final result is both beautiful and functional. Trust Floor to Ceiling Imported Surfaces to transform your Poquoson property with stunning new floors.",
+        "localContext": "Poquoson, a charming coastal town known for its close-knit community and beautiful waterfront properties, requires flooring solutions that are both stylish and durable.",
+        "nearbyAreas": [
+          "Hampton",
+          "Yorktown",
+          "Newport News"
+        ]
+      },
+      {
+        "city": "Yorktown",
+        "slug": "yorktown-va",
+        "state": "VA",
+        "content": "Floor to Ceiling Imported Surfaces is proud to offer our professional flooring services to the historic town of Yorktown, VA. We understand the importance of preserving the character and charm of Yorktown homes and businesses, and we offer a wide range of flooring options that complement the town's unique architectural style. From classic hardwood to elegant tile, we have the perfect flooring solution for your space.\n\nOur team is dedicated to providing exceptional customer service and expert installation. We work closely with our clients to ensure that their flooring project is completed to their satisfaction. Choose Floor to Ceiling Imported Surfaces for flooring that enhances the beauty and value of your Yorktown property.",
+        "localContext": "Yorktown, a town rich in history and known for its colonial architecture, requires flooring solutions that are both authentic and durable.",
+        "nearbyAreas": [
+          "Williamsburg",
+          "Newport News",
+          "Poquoson"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alice M.",
+        "rating": 5,
+        "service": "Hardwood Flooring",
+        "text": "Floor to Ceiling did an amazing job installing new hardwood in our living room! The installers were professional, efficient, and the floors look absolutely beautiful. They even helped us choose the perfect stain to match our existing furniture. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Bob K.",
+        "rating": 4,
+        "service": "Tile Flooring",
+        "text": "We hired Floor to Ceiling to install tile in our kitchen and were very pleased with the results. There were a couple of minor hiccups during the installation, but they were quick to address them and ensure we were happy with the final product. The tile work is excellent and has completely transformed our kitchen.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Carol S.",
+        "rating": 5,
+        "service": "Laminate Flooring",
+        "text": "I was hesitant to go with laminate, but Floor to Ceiling convinced me it was the right choice for our basement. They installed a beautiful, water-resistant laminate floor that looks just like real hardwood! The price was great, and the installation was fast and professional.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Carpet Installation",
+        "text": "Floor to Ceiling installed new carpet in our bedrooms, and we couldn't be happier. The carpet is so soft and comfortable, and the installation was flawless. The installers were friendly and respectful of our home. Great service!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Vinyl Flooring",
+        "text": "We chose vinyl plank for our beach house bathroom, and Floor to Ceiling did a fantastic job with the install. It looks great and will definitely hold up to the moisture and sand. The team was prompt and professional.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Frank T.",
+        "rating": 5,
+        "service": "Subfloor Repair",
+        "text": "I had some serious subfloor issues before getting new floors installed. These guys came in and fixed everything perfectly. Now my new hardwood is stable and beautiful. Excellent work and fair pricing!",
+        "date": "2024-05-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Flooring Virginia Beach | Expert Installers",
+        "description": "Premium flooring installation in Virginia Beach, VA. Hardwood, tile, laminate, vinyl & carpet. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Floor To Ceiling Imported Surfaces",
+        "description": "Learn about Floor to Ceiling Imported Surfaces in Virginia Beach, VA. Expert flooring contractors, trusted craftsmanship."
+      },
+      "services": {
+        "title": "Flooring Services | Virginia Beach, VA",
+        "description": "Comprehensive flooring services in Virginia Beach. Hardwood, laminate, tile, vinyl, carpet installation & repair."
+      },
+      "contact": {
+        "title": "Contact Us | Floor To Ceiling Imported Surfaces",
+        "description": "Contact Floor to Ceiling Imported Surfaces for flooring services in Virginia Beach, VA. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Reviews | Floor To Ceiling Imported Surfaces",
+        "description": "Read reviews for Floor to Ceiling Imported Surfaces in Virginia Beach, VA. See what our satisfied customers are saying."
+      },
+      "service-areas": {
+        "title": "Service Areas | Flooring Virginia Beach",
+        "description": "Floor to Ceiling Imported Surfaces provides flooring services in Virginia Beach and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "subfloor-repair": "/images/service-subfloor-repair.webp",
+      "floor-removal": "/images/service-floor-removal.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "subfloor-repair": {
+        "src": "/images/service-subfloor-repair.webp",
+        "srcset": "/images/service-subfloor-repair-400w.webp 400w, /images/service-subfloor-repair-800w.webp 800w, /images/service-subfloor-repair-1200w.webp 1200w, /images/service-subfloor-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-removal": {
+        "src": "/images/service-floor-removal.webp",
+        "srcset": "/images/service-floor-removal-400w.webp 400w, /images/service-floor-removal-800w.webp 800w, /images/service-floor-removal-1200w.webp 1200w, /images/service-floor-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
